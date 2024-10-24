@@ -6,7 +6,7 @@ language: scala
 buildSystem: ''
 buildSystemDetails:
   artefactID: sanfordconroy
-  parentArtefactID: ''
+  parentArtefactID: umnwxx7dmlnsnasg0wxhzpencomteam
   buildSystem: maven
   author: null
   createdAt: '2024-10-24 22:06:10'
@@ -15,8 +15,8 @@ datasets: {}
 templates: {}
 jobs: {}
 gemContainer:
-  languageVersion: ''
-  gemLibsVersion: ''
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
   gems: {}
   dependencies: null
 functions:
@@ -48,10 +48,10 @@ projectDependencies:
     projectUID: 329
     projectName: bobbie.mayer
     repositoryPath: gitUri=http://gitserver:3000/dev_nJ0nHZgD_team_535/dev_nJ0nHZgD_project_329.git&subPath=
-    version: bobbie.mayer/9.89.296
+    version: bobbie.mayer/7.4.2.791
     isDefault: false
     author: null
-    createdAt: '2024-10-24 22:06:08'
+    createdAt: '2024-10-24 22:06:35'
 flags:
   shouldAddDefaultDependenciesIfAbsent: true
 pipelineConfigurations: {}
