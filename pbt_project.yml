@@ -1,0 +1,57 @@
+name: sanford.conroy
+description: Pre-emptive
+version: 1.4.831
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: sanfordconroy
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 22:06:10'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 22:06:10'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T22:06:10.264138Z'
+  name: plibMaven
+  version: 8.4.0-SNAPSHOT
+  id: '2062174252'
+  createdAt: '2024-10-24T22:06:10.264138Z'
+  type: plibMaven
+projectDependencies:
+  '329':
+    projectUID: 329
+    projectName: bobbie.mayer
+    repositoryPath: gitUri=http://gitserver:3000/dev_nJ0nHZgD_team_535/dev_nJ0nHZgD_project_329.git&subPath=
+    version: bobbie.mayer/9.89.296
+    isDefault: false
+    author: null
+    createdAt: '2024-10-24 22:06:08'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
